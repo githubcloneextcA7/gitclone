@@ -1,3 +1,1 @@
 # gitclone
-# Cloning
-# clone
